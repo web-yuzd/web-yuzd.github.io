@@ -1,2 +1,2 @@
-# web-yuzd.github.io
-My blog
+# 我的个人博客
+这是我的个人博客，是用jekyll-bootstrap模板搭建的，主要记录前端相关技术及个人学习经验。
