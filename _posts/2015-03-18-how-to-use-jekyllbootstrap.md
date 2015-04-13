@@ -3,7 +3,7 @@ layout: post
 title: "如何使用jekyll bootstrap在github上建立个人博客"
 description: "这是我用jekyll-bootstrap框架模板搭建的个人博客，本文主要记录了搭建的过程，希望大家可以借鉴学习"
 category: ['work', 'code']
-tags: ['']
+tags: ['技巧']
 ---
 {% include JB/setup %}
 
