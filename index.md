@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 志冬的博客主页
-tagline: 大家好，这是我的前端开发博客！
+title: 博客主页
+tagline: 每天问自己一遍：努力和遗憾，哪一个更痛苦！
 ---
 {% include JB/setup %}
 
 
     
-## 博文目录
+## 目录
 
 
 
