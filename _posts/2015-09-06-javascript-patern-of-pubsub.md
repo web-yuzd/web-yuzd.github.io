@@ -7,9 +7,9 @@ tags: ['技巧','设计模式']
 ---
 {% include JB/setup %}
 
-最近一直在研究javascript设计模式，想把自己的js水平再提升一个层次，看了很多的参考资料，其中觉得极客学院的[《学用javascript设计模式》](http://wiki.jikexueyuan.com/project/javascript-design-patterns/overwise.html)讲得很不错。
+写出可维护的代码的一个最重要的方面就是在代码中能够注意到重复出现的主题并对其进行优化。设计模式的知识领域是无价的。为了将自己的js水平再提升一个层次,最近一直在研究javascript设计模式，看了很多的参考资料，其中觉得极客学院的[《学用javascript设计模式》](http://wiki.jikexueyuan.com/project/javascript-design-patterns/overwise.html)讲得很不错。
 
-其中觉得发布/订阅模式是我们编程中常用到的，下面记录我自己对这个模式的一些理解。
+发布/订阅模式是我们编程中常用到的，下面记录我自己对这个模式的一些理解。
 
 ### 定义
 
