@@ -82,10 +82,13 @@ h1, h2, h3, h4 {
   color: #FFF; }
 
 /**** 修改样式 ****/
-#wrap{
-  font-family: "微软雅黑";
-  background-color: #efefef;
-  padding-top: 60px;
+body{
+  background: url(../images/header_bg.jpg) no-repeat center center; 
+  background-attachment: fixed;
+}
+.blog-main-content{
+  background-color: rgba(255,255,255,.9);
+  padding: 0 50px;
 }
 .navbar-header a{
   font-size: 25px;
